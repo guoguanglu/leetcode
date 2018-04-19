@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/math/missing number.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/math/Nth Digit.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycode/math/valid perfect square.py" afterPath="$PROJECT_DIR$/mycode/math/valid perfect square.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,7 +58,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="missing number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Nth Digit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/math/Nth Digit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-562">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="missing number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/math/missing number.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -95,6 +104,7 @@
         <option value="$PROJECT_DIR$/mycode/math/excel sheet column number.py" />
         <option value="$PROJECT_DIR$/mycode/math/valid perfect square.py" />
         <option value="$PROJECT_DIR$/mycode/math/missing number.py" />
+        <option value="$PROJECT_DIR$/mycode/math/Nth Digit.py" />
       </list>
     </option>
   </component>
@@ -178,24 +188,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.missing number">
-    <configuration default="false" name="Reverse Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/Reverse Integer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Nth Digit">
     <configuration default="false" name="sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,6 +253,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/missing number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Nth Digit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/Nth Digit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -399,19 +409,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Reverse Integer" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sqrt(x)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.excel sheet column number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.valid perfect square" />
-      <item index="4" class="java.lang.String" itemvalue="Python.missing number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sqrt(x)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.excel sheet column number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.valid perfect square" />
+      <item index="3" class="java.lang.String" itemvalue="Python.missing number" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Nth Digit" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.missing number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.valid perfect square" />
-        <item index="2" class="java.lang.String" itemvalue="Python.excel sheet column number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sqrt(x)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Reverse Integer" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Nth Digit" />
+        <item index="1" class="java.lang.String" itemvalue="Python.missing number" />
+        <item index="2" class="java.lang.String" itemvalue="Python.valid perfect square" />
+        <item index="3" class="java.lang.String" itemvalue="Python.excel sheet column number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sqrt(x)" />
       </list>
     </recent_temporary>
   </component>
@@ -580,6 +590,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/math/missing number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/valid perfect square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -588,10 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/math/missing number.py">
+    <entry file="file://$PROJECT_DIR$/mycode/math/Nth Digit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+        <state relative-caret-position="-562">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
