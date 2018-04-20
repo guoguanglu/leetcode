@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/math/Maximum Product of Three Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/math/sum of square numbers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,31 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="self dividing numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/math/self dividing numbers.py">
+      <file leaf-file-name="sum of square numbers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/math/sum of square numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="range additionII.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/math/range additionII.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Maximum Product of Three Numbers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/math/Maximum Product of Three Numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="67" lean-forward="false" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+            <state relative-caret-position="36">
+              <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -85,6 +65,7 @@
         <option value="$PROJECT_DIR$/mycode/math/self dividing numbers.py" />
         <option value="$PROJECT_DIR$/mycode/math/range additionII.py" />
         <option value="$PROJECT_DIR$/mycode/math/Maximum Product of Three Numbers.py" />
+        <option value="$PROJECT_DIR$/mycode/math/sum of square numbers.py" />
       </list>
     </option>
   </component>
@@ -168,24 +149,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Maximum Product of Three Numbers">
-    <configuration default="false" name="arranging coins" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/arranging coins.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sum of square numbers">
     <configuration default="false" name="minimum moves to equal array elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,6 +214,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/Maximum Product of Three Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sum of square numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/math/sum of square numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -389,19 +370,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.arranging coins" />
-      <item index="1" class="java.lang.String" itemvalue="Python.minimum moves to equal array elements" />
-      <item index="2" class="java.lang.String" itemvalue="Python.self dividing numbers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.range additionII" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
+      <item index="0" class="java.lang.String" itemvalue="Python.minimum moves to equal array elements" />
+      <item index="1" class="java.lang.String" itemvalue="Python.self dividing numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.range additionII" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sum of square numbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
-        <item index="1" class="java.lang.String" itemvalue="Python.range additionII" />
-        <item index="2" class="java.lang.String" itemvalue="Python.self dividing numbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.minimum moves to equal array elements" />
-        <item index="4" class="java.lang.String" itemvalue="Python.arranging coins" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sum of square numbers" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.range additionII" />
+        <item index="3" class="java.lang.String" itemvalue="Python.self dividing numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.minimum moves to equal array elements" />
       </list>
     </recent_temporary>
   </component>
@@ -697,14 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/math/self dividing numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/range additionII.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -717,6 +690,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="67" lean-forward="false" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/math/self dividing numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/math/sum of square numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
       </provider>
