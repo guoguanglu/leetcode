@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/roman to integer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/longest common prefix.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="roman to integer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="roman to integer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/string/roman to integer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longest common prefix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/string/longest common prefix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
               <folding />
             </state>
           </provider>
@@ -75,6 +85,7 @@
         <option value="$PROJECT_DIR$/mycode/string/Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/mycode/string/valid parentheses.py" />
         <option value="$PROJECT_DIR$/mycode/string/roman to integer.py" />
+        <option value="$PROJECT_DIR$/mycode/string/longest common prefix.py" />
       </list>
     </option>
   </component>
@@ -158,24 +169,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.roman to integer">
-    <configuration default="false" name="count and say" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/count and say.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.longest common prefix">
     <configuration default="false" name="Add Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,6 +234,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/roman to integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="longest common prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/longest common prefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -379,19 +390,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.count and say" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Add Binary" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Valid Palindrome" />
-      <item index="3" class="java.lang.String" itemvalue="Python.valid parentheses" />
-      <item index="4" class="java.lang.String" itemvalue="Python.roman to integer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Add Binary" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Valid Palindrome" />
+      <item index="2" class="java.lang.String" itemvalue="Python.valid parentheses" />
+      <item index="3" class="java.lang.String" itemvalue="Python.roman to integer" />
+      <item index="4" class="java.lang.String" itemvalue="Python.longest common prefix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.roman to integer" />
-        <item index="1" class="java.lang.String" itemvalue="Python.valid parentheses" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Valid Palindrome" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Add Binary" />
-        <item index="4" class="java.lang.String" itemvalue="Python.count and say" />
+        <item index="0" class="java.lang.String" itemvalue="Python.longest common prefix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.roman to integer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.valid parentheses" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Valid Palindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Add Binary" />
       </list>
     </recent_temporary>
   </component>
@@ -783,6 +794,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/longest common prefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="75" lean-forward="false" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
           <folding />
         </state>
       </provider>
