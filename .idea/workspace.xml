@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/reverse vowels of a string.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/ransom note.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reverse vowels of a string.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/string/reverse vowels of a string.py">
+      <file leaf-file-name="ransom note.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/string/ransom note.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="72">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -119,6 +119,7 @@
         <option value="$PROJECT_DIR$/mycode/string/implement strStr().py" />
         <option value="$PROJECT_DIR$/mycode/string/reverse string.py" />
         <option value="$PROJECT_DIR$/mycode/string/reverse vowels of a string.py" />
+        <option value="$PROJECT_DIR$/mycode/string/ransom note.py" />
       </list>
     </option>
   </component>
@@ -202,24 +203,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse vowels of a string">
-    <configuration default="false" name="valid parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/valid parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.ransom note">
     <configuration default="false" name="roman to integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,6 +268,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/reverse vowels of a string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ransom note" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/ransom note.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -423,19 +424,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.valid parentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.roman to integer" />
-      <item index="2" class="java.lang.String" itemvalue="Python.longest common prefix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.reverse string" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
+      <item index="0" class="java.lang.String" itemvalue="Python.roman to integer" />
+      <item index="1" class="java.lang.String" itemvalue="Python.longest common prefix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reverse string" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ransom note" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
-        <item index="1" class="java.lang.String" itemvalue="Python.reverse string" />
-        <item index="2" class="java.lang.String" itemvalue="Python.longest common prefix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.roman to integer" />
-        <item index="4" class="java.lang.String" itemvalue="Python.valid parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ransom note" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.reverse string" />
+        <item index="3" class="java.lang.String" itemvalue="Python.longest common prefix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.roman to integer" />
       </list>
     </recent_temporary>
   </component>
@@ -504,14 +505,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/string/implement strStr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/reverse string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -863,8 +856,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/reverse vowels of a string.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="432">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/ransom note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
       </provider>
