@@ -1,6 +1,6 @@
 #reverse len k,not reverse len k.....
 #method one my own code
-#method two great code 
+#method two great code
 class Solution(object):
     def reverseStr(self, s, k):
         """
