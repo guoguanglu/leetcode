@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/repeated substring pattern.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/number of segments in a string.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="repeated substring pattern.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/string/repeated substring pattern.py">
+      <file leaf-file-name="number of segments in a string.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/string/number of segments in a string.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+            <state relative-caret-position="216">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -81,6 +81,8 @@
         <option value="$PROJECT_DIR$/mycode/string/reverse vowels of a string.py" />
         <option value="$PROJECT_DIR$/mycode/string/ransom note.py" />
         <option value="$PROJECT_DIR$/mycode/string/repeated substring pattern.py" />
+        <option value="$PROJECT_DIR$/mycode/string/number of sefments in a string.py" />
+        <option value="$PROJECT_DIR$/mycode/string/number of segments in a string.py" />
       </list>
     </option>
   </component>
@@ -164,41 +166,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.repeated substring pattern">
-    <configuration default="false" name="longest common prefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/longest common prefix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="reverse string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/reverse string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.number of segments in a string">
     <configuration default="false" name="reverse vowels of a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,6 +214,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/repeated substring pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="number of sefments in a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/number of sefments in a string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="number of segments in a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/number of segments in a string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -385,19 +387,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.longest common prefix" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reverse string" />
-      <item index="2" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ransom note" />
-      <item index="4" class="java.lang.String" itemvalue="Python.repeated substring pattern" />
+      <item index="0" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ransom note" />
+      <item index="2" class="java.lang.String" itemvalue="Python.repeated substring pattern" />
+      <item index="3" class="java.lang.String" itemvalue="Python.number of sefments in a string" />
+      <item index="4" class="java.lang.String" itemvalue="Python.number of segments in a string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.repeated substring pattern" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ransom note" />
-        <item index="2" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reverse string" />
-        <item index="4" class="java.lang.String" itemvalue="Python.longest common prefix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.number of segments in a string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.number of sefments in a string" />
+        <item index="2" class="java.lang.String" itemvalue="Python.repeated substring pattern" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ransom note" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reverse vowels of a string" />
       </list>
     </recent_temporary>
   </component>
@@ -466,20 +468,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/math/sum of square numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/math/missing number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/Happy Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -823,10 +811,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/number of sefments in a string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/repeated substring pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="39" lean-forward="false" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/number of segments in a string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
