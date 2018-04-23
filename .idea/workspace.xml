@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/reverse words in a string III.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/Student Attendance Record I.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,21 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="longest uncommon subsequence I.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/string/longest uncommon subsequence I.py">
+      <file leaf-file-name="Student Attendance Record I.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/string/Student Attendance Record I.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverse words in a string III.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/string/reverse words in a string III.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -97,6 +86,7 @@
         <option value="$PROJECT_DIR$/mycode/string/reverse string II.py" />
         <option value="$PROJECT_DIR$/mycode/string/longest uncommon subsequence I.py" />
         <option value="$PROJECT_DIR$/mycode/string/reverse words in a string III.py" />
+        <option value="$PROJECT_DIR$/mycode/string/Student Attendance Record I.py" />
       </list>
     </option>
   </component>
@@ -180,24 +170,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse words in a string III">
-    <configuration default="false" name="number of segments in a string" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/number of segments in a string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Student Attendance Record I">
     <configuration default="false" name="detect capital" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +235,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/reverse words in a string III.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Student Attendance Record I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/Student Attendance Record I.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +391,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.number of segments in a string" />
-      <item index="1" class="java.lang.String" itemvalue="Python.detect capital" />
-      <item index="2" class="java.lang.String" itemvalue="Python.reverse string II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
+      <item index="0" class="java.lang.String" itemvalue="Python.detect capital" />
+      <item index="1" class="java.lang.String" itemvalue="Python.reverse string II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
-        <item index="1" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
-        <item index="2" class="java.lang.String" itemvalue="Python.reverse string II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.detect capital" />
-        <item index="4" class="java.lang.String" itemvalue="Python.number of segments in a string" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
+        <item index="2" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
+        <item index="3" class="java.lang.String" itemvalue="Python.reverse string II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.detect capital" />
       </list>
     </recent_temporary>
   </component>
@@ -482,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/math/valid perfect square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/Nth Digit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -849,6 +832,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/Student Attendance Record I.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
