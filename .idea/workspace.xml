@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/rotated digits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/First Unique Character in a String.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rotated digits.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rotated digits.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/string/rotated digits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="First Unique Character in a String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/string/First Unique Character in a String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -110,6 +120,7 @@
         <option value="$PROJECT_DIR$/mycode/string/Student Attendance Record I.py" />
         <option value="$PROJECT_DIR$/mycode/string/most common word.py" />
         <option value="$PROJECT_DIR$/mycode/string/rotated digits.py" />
+        <option value="$PROJECT_DIR$/mycode/string/First Unique Character in a String.py" />
       </list>
     </option>
   </component>
@@ -193,24 +204,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.rotated digits">
-    <configuration default="false" name="longest uncommon subsequence I" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/longest uncommon subsequence I.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.First Unique Character in a String">
     <configuration default="false" name="reverse words in a string III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,6 +269,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/rotated digits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="First Unique Character in a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/string" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/First Unique Character in a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -414,19 +425,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
-      <item index="1" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
-      <item index="3" class="java.lang.String" itemvalue="Python.most common word" />
-      <item index="4" class="java.lang.String" itemvalue="Python.rotated digits" />
+      <item index="0" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
+      <item index="2" class="java.lang.String" itemvalue="Python.most common word" />
+      <item index="3" class="java.lang.String" itemvalue="Python.rotated digits" />
+      <item index="4" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.rotated digits" />
-        <item index="1" class="java.lang.String" itemvalue="Python.most common word" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
-        <item index="4" class="java.lang.String" itemvalue="Python.longest uncommon subsequence I" />
+        <item index="0" class="java.lang.String" itemvalue="Python.First Unique Character in a String" />
+        <item index="1" class="java.lang.String" itemvalue="Python.rotated digits" />
+        <item index="2" class="java.lang.String" itemvalue="Python.most common word" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Student Attendance Record I" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reverse words in a string III" />
       </list>
     </recent_temporary>
   </component>
@@ -495,13 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/math/Ugly Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/Palindrome Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -846,6 +850,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/string/First Unique Character in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
