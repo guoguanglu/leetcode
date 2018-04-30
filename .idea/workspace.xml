@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Move Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Remove Element.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Move Zeroes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Move Zeroes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/array/Move Zeroes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Remove Element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Remove Element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -52,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/math/perfect number.py" />
         <option value="$PROJECT_DIR$/mycode/math/largest triangle area.py" />
         <option value="$PROJECT_DIR$/mycode/string/add string length of last word.py" />
         <option value="$PROJECT_DIR$/mycode/string/count and say.py" />
@@ -103,6 +113,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Maximum Product of Three Numbers.py" />
         <option value="$PROJECT_DIR$/mycode/array/Rotate Array.py" />
         <option value="$PROJECT_DIR$/mycode/array/Move Zeroes.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Remove Element.py" />
       </list>
     </option>
   </component>
@@ -189,24 +200,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Move Zeroes">
-    <configuration default="false" name="Two Sum II - Input array is sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Two Sum II - Input array is sorted.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Remove Element">
     <configuration default="false" name="Missing Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,6 +265,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Move Zeroes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Remove Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Remove Element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -410,19 +421,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Two Sum II - Input array is sorted" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Missing Number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Rotate Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Move Zeroes" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Missing Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Rotate Array" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Move Zeroes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Remove Element" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Move Zeroes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Rotate Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Missing Number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Two Sum II - Input array is sorted" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Remove Element" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Move Zeroes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Rotate Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Maximum Product of Three Numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Missing Number" />
       </list>
     </recent_temporary>
   </component>
@@ -491,13 +502,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/math/set mismatch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/sum of square numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -859,6 +863,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Remove Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding />
         </state>
       </provider>
