@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Minimum Path Sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Plus One.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Minimum Path Sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Minimum Path Sum.py">
+      <file leaf-file-name="Plus One.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Plus One.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -43,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/math/count primes.py" />
         <option value="$PROJECT_DIR$/mycode/math/roman to integer.py" />
         <option value="$PROJECT_DIR$/mycode/math/add digits.py" />
         <option value="$PROJECT_DIR$/mycode/math/add strings.py" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Spiral Matrix II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Unique Paths II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Minimum Path Sum.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Plus One.py" />
       </list>
     </option>
   </component>
@@ -180,24 +180,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Minimum Path Sum">
-    <configuration default="false" name="Jump Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Jump Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Plus One">
     <configuration default="false" name="Jump Game II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +245,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Minimum Path Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Plus One" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Plus One.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Jump Game" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Jump Game II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Unique Paths II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Minimum Path Sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Jump Game II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Unique Paths II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Minimum Path Sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Plus One" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Minimum Path Sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Unique Paths II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Jump Game II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Jump Game" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Plus One" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Minimum Path Sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Unique Paths II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Spiral Matrix II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Jump Game II" />
       </list>
     </recent_temporary>
   </component>
@@ -482,13 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/math/count primes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="86" lean-forward="false" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/math/roman to integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -839,6 +832,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Plus One.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding />
         </state>
       </provider>
