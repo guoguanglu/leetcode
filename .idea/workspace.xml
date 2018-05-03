@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Pascal's Triangle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Remove Duplicates from Sorted Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py">
+      <file leaf-file-name="Pascal's Triangle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Pascal's Triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Merge Sorted Array.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Merge Sorted Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            <state relative-caret-position="540">
+              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -53,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/string/Add Binary.py" />
         <option value="$PROJECT_DIR$/mycode/string/Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/mycode/string/valid parentheses.py" />
         <option value="$PROJECT_DIR$/mycode/string/roman to integer.py" />
@@ -104,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock.py" />
         <option value="$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py" />
         <option value="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Pascal's Triangle.py" />
       </list>
     </option>
   </component>
@@ -190,24 +180,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Merge Sorted Array">
-    <configuration default="false" name="Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Move Zeroes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Pascal's Triangle">
     <configuration default="false" name="Remove Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +245,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Pascal's Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Pascal's Triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -411,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Move Zeroes" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Remove Element" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Remove Element" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Pascal's Triangle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Remove Element" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Move Zeroes" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Pascal's Triangle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Remove Element" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +434,7 @@
     <frame x="1911" y="-9" width="1458" height="918" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33194444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -492,13 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/string/Add Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/valid parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -833,6 +816,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Merge Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
@@ -841,10 +832,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/array/Merge Sorted Array.py">
+    <entry file="file://$PROJECT_DIR$/mycode/array/Pascal's Triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state relative-caret-position="540">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>
