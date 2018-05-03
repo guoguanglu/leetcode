@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Remove Duplicates from Sorted Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Remove Duplicates from Sorted Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="71">
               <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Merge Sorted Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Merge Sorted Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -43,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/string/count and say.py" />
         <option value="$PROJECT_DIR$/mycode/string/Add Binary.py" />
         <option value="$PROJECT_DIR$/mycode/string/Valid Palindrome.py" />
         <option value="$PROJECT_DIR$/mycode/string/valid parentheses.py" />
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Remove Element.py" />
         <option value="$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock.py" />
         <option value="$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
       </list>
     </option>
   </component>
@@ -180,24 +190,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Remove Duplicates from Sorted Array">
-    <configuration default="false" name="Rotate Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Rotate Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Merge Sorted Array">
     <configuration default="false" name="Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +255,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Remove Duplicates from Sorted Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Merge Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +411,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Rotate Array" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Move Zeroes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Remove Element" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Move Zeroes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Remove Element" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Remove Element" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Move Zeroes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Rotate Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Merge Sorted Array" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Remove Duplicates from Sorted Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Remove Element" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Move Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -482,13 +492,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/string/add string length of last word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="37" lean-forward="false" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/Add Binary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -834,6 +837,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
           <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Merge Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
