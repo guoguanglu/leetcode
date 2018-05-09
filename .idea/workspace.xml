@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/1-bit and 2-bit Characters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Degree of an Array.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="1-bit and 2-bit Characters.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/1-bit and 2-bit Characters.py">
+      <file leaf-file-name="Degree of an Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Degree of an Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+            <state relative-caret-position="288">
+              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -43,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/string/rotated digits.py" />
         <option value="$PROJECT_DIR$/mycode/string/First Unique Character in a String.py" />
         <option value="$PROJECT_DIR$/mycode/string/String Compression.py" />
         <option value="$PROJECT_DIR$/mycode/string/Count Binary Substrings.py" />
@@ -94,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Min Cost Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/mycode/array/Find Pivot Index.py" />
         <option value="$PROJECT_DIR$/mycode/array/1-bit and 2-bit Characters.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Degree of an Array.py" />
       </list>
     </option>
   </component>
@@ -198,24 +198,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1-bit and 2-bit Characters">
-    <configuration default="false" name="Positions of Large Groups" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Positions of Large Groups.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Degree of an Array">
     <configuration default="false" name="Largest Number At Least Twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,6 +263,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/1-bit and 2-bit Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Degree of an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Degree of an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -419,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Positions of Large Groups" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Largest Number At Least Twice of Others" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Min Cost Climbing Stairs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Find Pivot Index" />
-      <item index="4" class="java.lang.String" itemvalue="Python.1-bit and 2-bit Characters" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Largest Number At Least Twice of Others" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Min Cost Climbing Stairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Find Pivot Index" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1-bit and 2-bit Characters" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Degree of an Array" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.1-bit and 2-bit Characters" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Find Pivot Index" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Min Cost Climbing Stairs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Largest Number At Least Twice of Others" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Positions of Large Groups" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Degree of an Array" />
+        <item index="1" class="java.lang.String" itemvalue="Python.1-bit and 2-bit Characters" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Find Pivot Index" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Min Cost Climbing Stairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Largest Number At Least Twice of Others" />
       </list>
     </recent_temporary>
   </component>
@@ -481,13 +481,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/string/rotated digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/string/First Unique Character in a String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -840,6 +833,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Degree of an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
         </state>
       </provider>
