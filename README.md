@@ -1,3 +1,8 @@
 # leetcode
+my code on the leetcode. Thank you for asking questions.
 
-##FIGHTING!FIGHTING!FIGHTING!
+***
+## Content
+* [string](/string)  
+* [array](/array)  
+* [math](/math)
