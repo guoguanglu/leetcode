@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/Tree/Path Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,41 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Same Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/Tree/Same Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Binary Tree Level Order Traversal II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/Tree/Binary Tree Level Order Traversal II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Balanced Binary Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/Tree/Balanced Binary Tree.py">
+      <file leaf-file-name="Path Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/Tree/Path Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="648">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Minimum Depth of Binary Tree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <caret line="18" column="98" lean-forward="false" selection-start-line="18" selection-start-column="98" selection-end-line="18" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -73,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Jump Game.py" />
         <option value="$PROJECT_DIR$/mycode/array/Jump Game II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Spiral Matrix II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Unique Paths II.py" />
@@ -124,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/Tree/Binary Tree Level Order Traversal II.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Balanced Binary Tree.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/mycode/Tree/Path Sum.py" />
       </list>
     </option>
   </component>
@@ -148,8 +118,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,24 +180,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Minimum Depth of Binary Tree">
-    <configuration default="false" name="Non-decreasing Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Non-decreasing Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Path Sum">
     <configuration default="false" name="Same Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +245,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Path Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/Tree/Path Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -431,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Non-decreasing Array" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Same Tree" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Same Tree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Path Sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Same Tree" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Non-decreasing Array" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Path Sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Minimum Depth of Binary Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Balanced Binary Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Binary Tree Level Order Traversal II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Same Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +439,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1957672" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1957672" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -493,13 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Jump Game II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Spiral Matrix II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -822,34 +785,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/Tree/Same Tree.py">
+    <entry file="file://$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/Tree/Binary Tree Level Order Traversal II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="506">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mycode/Tree/Balanced Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="155">
+          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/Tree/Minimum Depth of Binary Tree.py">
+    <entry file="file://$PROJECT_DIR$/mycode/Tree/Binary Tree Level Order Traversal II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="155">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/Tree/Same Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/Tree/Path Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="18" column="98" lean-forward="false" selection-start-line="18" selection-start-column="98" selection-end-line="18" selection-end-column="98" />
           <folding />
         </state>
       </provider>
