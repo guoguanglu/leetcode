@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/Tree/Maximum Depth of Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/Tree/Sum of Left Leaves.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Maximum Depth of Binary Tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Maximum Depth of Binary Tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/Tree/Maximum Depth of Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="540">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sum of Left Leaves.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/Tree/Sum of Left Leaves.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -43,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Search a 2D Matrix.py" />
         <option value="$PROJECT_DIR$/mycode/array/Subsets.py" />
         <option value="$PROJECT_DIR$/mycode/array/Pascal's Triangle II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Two Sum II - Input array is sorted.py" />
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/mycode/Tree/Lowest Common Ancestor of a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Convert Sorted Array to Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Maximum Depth of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/mycode/Tree/Sum of Left Leaves.py" />
       </list>
     </option>
   </component>
@@ -180,24 +190,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Maximum Depth of Binary Tree">
-    <configuration default="false" name="Symmetric Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/Tree/Symmetric Tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Sum of Left Leaves">
     <configuration default="false" name="Binary Tree Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +255,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/Tree/Maximum Depth of Binary Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sum of Left Leaves" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/Tree/Sum of Left Leaves.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +411,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Symmetric Tree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Binary Tree Paths" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor of a Binary Search Tree" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Convert Sorted Array to Binary Search Tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Binary Tree Paths" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor of a Binary Search Tree" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Convert Sorted Array to Binary Search Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Sum of Left Leaves" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Convert Sorted Array to Binary Search Tree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor of a Binary Search Tree" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Binary Tree Paths" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Symmetric Tree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Sum of Left Leaves" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Maximum Depth of Binary Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Convert Sorted Array to Binary Search Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Lowest Common Ancestor of a Binary Search Tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Binary Tree Paths" />
       </list>
     </recent_temporary>
   </component>
@@ -463,13 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Two Sum II - Input array is sorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -820,8 +823,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mycode/Tree/Maximum Depth of Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="540">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/Tree/Sum of Left Leaves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding />
         </state>
       </provider>
