@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Combination Sum III.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +17,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Minimum Size Subarray Sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py">
+      <file leaf-file-name="Combination Sum III.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Combination Sum III.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="864">
+              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -43,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Pascal's Triangle.py" />
         <option value="$PROJECT_DIR$/mycode/array/Maximum Subarray.py" />
         <option value="$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Majority Element.py" />
@@ -94,6 +92,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Maximum Product Subarray.py" />
         <option value="$PROJECT_DIR$/mycode/array/Find Minimum in Rotated Sorted Array II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Combination Sum III.py" />
       </list>
     </option>
   </component>
@@ -180,24 +179,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Minimum Size Subarray Sum">
-    <configuration default="false" name="Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Combination Sum III">
     <configuration default="false" name="Best Time to Buy and Sell Stock III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +244,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Combination Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Combination Sum III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +400,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Triangle" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Combination Sum III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Triangle" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Combination Sum III" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
       </list>
     </recent_temporary>
   </component>
@@ -463,13 +462,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Maximum Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -822,6 +814,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Combination Sum III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding />
         </state>
       </provider>
