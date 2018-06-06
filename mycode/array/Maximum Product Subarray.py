@@ -1,11 +1,21 @@
 class Solution(object):
-    def maxProduct(self, nums):
+    def findMin(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
-        max_value = pos_max = neg_max = nums[0]
-        for elem in nums[1:]:
-            pos_max ,neg_max= max(elem, elem*pos_max, elem*neg_max), min(elem, elem * pos_max, elem * neg_max)
-            max_value = max(pos_max, max_value)
-        return max_value
+        if nums[0]<=nums[-1]:
+            return nums[0]
+        left = 0
+        right = len(nums)-1
+        min_val = nums[0]
+        while left < right:
+            mid = (left + right)/2
+            if nums[mid]<nums[mid-1] and nums[mid]< nums[mid+1]:
+                return nums[mid]
+            if nums[mid]>nums[mid-1] and nums[mid]>nums[mid+1]:
+                return nums[mid+1]
+            if nums[mid]<nums[0]:
+                right = mid
+            else:
+                left = mid
