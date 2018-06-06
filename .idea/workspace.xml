@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Find Minimum in Rotated Sorted Array II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Best Time to Buy and Sell Stock III.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock III.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Find Minimum in Rotated Sorted Array II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Find Minimum in Rotated Sorted Array II.py">
+      <file leaf-file-name="Minimum Size Subarray Sum.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -53,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Merge Sorted Array.py" />
         <option value="$PROJECT_DIR$/mycode/array/Pascal's Triangle.py" />
         <option value="$PROJECT_DIR$/mycode/array/Maximum Subarray.py" />
         <option value="$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock II.py" />
@@ -104,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Best Time to Buy and Sell Stock III.py" />
         <option value="$PROJECT_DIR$/mycode/array/Maximum Product Subarray.py" />
         <option value="$PROJECT_DIR$/mycode/array/Find Minimum in Rotated Sorted Array II.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
       </list>
     </option>
   </component>
@@ -190,24 +180,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Find Minimum in Rotated Sorted Array II">
-    <configuration default="false" name="Construct Binary Tree from Preorder and Inorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Construct Binary Tree from Preorder and Inorder Traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Minimum Size Subarray Sum">
     <configuration default="false" name="Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,6 +245,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Find Minimum in Rotated Sorted Array II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Minimum Size Subarray Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -411,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Triangle" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Triangle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Triangle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Construct Binary Tree from Preorder and Inorder Traversal" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Find Minimum in Rotated Sorted Array II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Maximum Product Subarray" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock III" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -473,13 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Pascal's Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Maximum Subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -831,6 +814,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
