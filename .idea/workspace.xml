@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mycode/array/Subsets.py" afterPath="$PROJECT_DIR$/mycode/array/Subsets.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +17,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Sort Colors.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sort Colors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/array/Sort Colors.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subsets.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Subsets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -43,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Two Sum.py" />
         <option value="$PROJECT_DIR$/mycode/array/Third Maximum Number.py" />
         <option value="$PROJECT_DIR$/mycode/array/Maximum Average Subarray I.py" />
         <option value="$PROJECT_DIR$/mycode/array/Find All Numbers Disappeared in an Array.py" />
@@ -94,6 +102,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Next Permutation.py" />
         <option value="$PROJECT_DIR$/mycode/array/Merge Intervals.py" />
         <option value="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Subsets.py" />
       </list>
     </option>
   </component>
@@ -180,24 +189,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Sort Colors">
-    <configuration default="false" name="Combination Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Combination Sum III.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Subsets">
     <configuration default="false" name="Summary Ranges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,6 +254,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Subsets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,19 +410,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Combination Sum III" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Summary Ranges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Majority Element II" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Merge Intervals" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Sort Colors" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Summary Ranges" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Majority Element II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Merge Intervals" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Sort Colors" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Subsets" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Sort Colors" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Merge Intervals" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Majority Element II" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Summary Ranges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Combination Sum III" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Subsets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Sort Colors" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Merge Intervals" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Majority Element II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Summary Ranges" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +443,7 @@
     <frame x="1911" y="-9" width="1458" height="918" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16180556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32222223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -463,13 +472,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Maximum Average Subarray I.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Third Maximum Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -820,6 +822,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Subsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>

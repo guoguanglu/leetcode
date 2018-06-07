@@ -1,10 +1,11 @@
 class Solution(object):
-    def subsets(self, nums):
+    def subsetsWithDup(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        retlist=[[]]
+        res = [[]]
+        nums.sort()
         for elem in nums:
-            retlist += [[elem]+temp for temp in retlist]
-        return retlist
+            res += [temp+[elem] for temp in res if temp+[elem] not in res]
+        return res
