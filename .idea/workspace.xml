@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Merge Intervals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,31 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Majority Element II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Majority Element II.py">
+      <file leaf-file-name="Sort Colors.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/array/Sort Colors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Next Permutation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Next Permutation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Merge Intervals.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mycode/array/Merge Intervals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -63,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Contains Duplicate.py" />
         <option value="$PROJECT_DIR$/mycode/array/Two Sum.py" />
         <option value="$PROJECT_DIR$/mycode/array/Third Maximum Number.py" />
         <option value="$PROJECT_DIR$/mycode/array/Maximum Average Subarray I.py" />
@@ -114,6 +93,7 @@
         <option value="$PROJECT_DIR$/mycode/array/Majority Element II.py" />
         <option value="$PROJECT_DIR$/mycode/array/Next Permutation.py" />
         <option value="$PROJECT_DIR$/mycode/array/Merge Intervals.py" />
+        <option value="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
       </list>
     </option>
   </component>
@@ -200,24 +180,7 @@
       <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Merge Intervals">
-    <configuration default="false" name="Minimum Size Subarray Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Minimum Size Subarray Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Sort Colors">
     <configuration default="false" name="Combination Sum III" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,6 +245,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Merge Intervals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sort Colors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/array/Sort Colors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -421,19 +401,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Combination Sum III" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Summary Ranges" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Majority Element II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Merge Intervals" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Combination Sum III" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Summary Ranges" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Majority Element II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Merge Intervals" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Sort Colors" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Merge Intervals" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Majority Element II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Summary Ranges" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Combination Sum III" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Minimum Size Subarray Sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Sort Colors" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Merge Intervals" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Majority Element II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Summary Ranges" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Combination Sum III" />
       </list>
     </recent_temporary>
   </component>
@@ -483,13 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Contains Duplicate II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Maximum Average Subarray I.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
@@ -819,10 +792,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/array/Majority Element II.py">
+    <entry file="file://$PROJECT_DIR$/mycode/array/Merge Intervals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -835,10 +808,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mycode/array/Merge Intervals.py">
+    <entry file="file://$PROJECT_DIR$/mycode/array/Majority Element II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        <state relative-caret-position="485">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/array/Sort Colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding />
         </state>
       </provider>
