@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query - Immutable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query 2D - Immutable.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Range Sum Query - Immutable.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Range Sum Query - Immutable.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query - Immutable.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="828">
               <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Range Sum Query 2D - Immutable.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query 2D - Immutable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -43,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/K-diff Pairs in an Array.py" />
         <option value="$PROJECT_DIR$/mycode/array/Array Partition I.py" />
         <option value="$PROJECT_DIR$/mycode/array/Reshape the Matrix.py" />
         <option value="$PROJECT_DIR$/mycode/array/Shortest Unsorted Continuous Subarray.py" />
@@ -94,6 +103,7 @@
         <option value="$PROJECT_DIR$/mycode/dynamic programming/Perfect Squares.py" />
         <option value="$PROJECT_DIR$/mycode/dynamic programming/Longest Increasing Subsequence.py" />
         <option value="$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query - Immutable.py" />
+        <option value="$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query 2D - Immutable.py" />
       </list>
     </option>
   </component>
@@ -495,9 +505,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.259375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -545,13 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/array/Shortest Unsorted Continuous Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/array/Can Place Flowers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -907,6 +910,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/dynamic programming/Range Sum Query 2D - Immutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
