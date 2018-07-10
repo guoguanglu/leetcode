@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39167cca-91da-4a29-b35c-53925cc2901f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/string/Buddy Strings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mycode/dynamic programming/Unique Paths.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,11 +68,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Buddy Strings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Buddy Strings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mycode/string/Buddy Strings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
               <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unique Paths.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mycode/dynamic programming/Unique Paths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -93,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mycode/array/Non-decreasing Array.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Same Tree.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Binary Tree Level Order Traversal II.py" />
         <option value="$PROJECT_DIR$/mycode/Tree/Balanced Binary Tree.py" />
@@ -144,6 +153,7 @@
         <option value="$PROJECT_DIR$/mycode/dynamic programming/Push Dominoes.py" />
         <option value="$PROJECT_DIR$/mycode/dynamic programming/Coin Change.py" />
         <option value="$PROJECT_DIR$/mycode/string/Buddy Strings.py" />
+        <option value="$PROJECT_DIR$/mycode/dynamic programming/Unique Paths.py" />
       </list>
     </option>
   </component>
@@ -258,10 +268,6 @@
               <option name="myItemId" value="mycode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="string" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -276,6 +282,10 @@
               <option name="myItemId" value="mycode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dynamic programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -286,31 +296,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\leetcode\mycode\array" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\leetcode\mycode\string" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.Buddy Strings">
-    <configuration default="false" name="Longest Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/dynamic programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/dynamic programming/Longest Valid Parentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Unique Paths">
     <configuration default="false" name="Remove Duplicate Letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -375,6 +368,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/string/Buddy Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unique Paths" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mycode/dynamic programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mycode/dynamic programming/Unique Paths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -514,19 +524,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Longest Valid Parentheses" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Remove Duplicate Letters" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Longest Increasing Subsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock with Cooldown" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Buddy Strings" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Remove Duplicate Letters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Longest Increasing Subsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock with Cooldown" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Buddy Strings" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Unique Paths" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Buddy Strings" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock with Cooldown" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Longest Increasing Subsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Remove Duplicate Letters" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Longest Valid Parentheses" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Unique Paths" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Buddy Strings" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Best Time to Buy and Sell Stock with Cooldown" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Longest Increasing Subsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Remove Duplicate Letters" />
       </list>
     </recent_temporary>
   </component>
@@ -595,13 +605,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mycode/Tree/Binary Tree Paths.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycode/Tree/Balanced Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -954,6 +957,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="16" column="60" lean-forward="false" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mycode/dynamic programming/Unique Paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
